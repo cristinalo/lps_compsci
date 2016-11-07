@@ -1,0 +1,5 @@
+v = 6
+w = 8
+Mysport = ('Softball')
+
+print(v + w) 
